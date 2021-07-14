@@ -1,1 +1,1 @@
-2.1|9188510|1.日常更新|https://raw.githubusercontent.com/caicaicai21/myTv/master/apk/2.1.apk
+2.1|9188510|1.日常更新|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.1.apk
