@@ -1,1 +1,1 @@
-2.21|9189850|1.修复部分Bug\n2.调整部分解码参数，优化播放性能|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.21.apk
+2.22|9190047|1.修复部分Bug\n2.调整部分解码参数，优化播放性能\n3.优化初始化流程|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.22.apk
