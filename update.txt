@@ -1,1 +1,1 @@
-2.2|9189255|1.修复4.4系统下载更新报错问题\n2.修复部分没有外部存储的机器下载更新问题|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.2.apk
+2.21|9189850|1.修复部分Bug\n2.调整部分解码参数，优化播放性能|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.21.apk
