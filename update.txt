@@ -1,1 +1,1 @@
-2.3|9191471|1.修复部分Bug\n2.调整部分解码参数，优化播放性能\n3.优化初始化流程\n4.支持记忆上次播放的频道|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.3.apk
+2.4|9437509|1.更新解码器ffmpeg4.0\n2.其他优化|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.4.apk
