@@ -1,1 +1,1 @@
-2.4|9437509|1.更新解码器ffmpeg4.0\n2.其他优化|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.4.apk
+2.41|9437513|1.修复一些小问题|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/beta/2.41.apk
