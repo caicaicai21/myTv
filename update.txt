@@ -1,1 +1,1 @@
-2.41|9437184|1.修复链接|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.41.apk
+2.42|9441280|1.替换源|https://cdn.jsdelivr.net/gh/caicaicai21/myTv/apk/2.42.apk
